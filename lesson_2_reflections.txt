@@ -12,3 +12,10 @@ When you need to make like an experimental change. Branches allow you to do so w
 
 How do the diagrams help you visualize the branch structure?
 Well, trying to keep up with all that information in your head is difficult.  Diagrams make it easier.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Commit histories are combined by timestamp.  The diagram gives a visual representation of what's happening for easier understanding.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+pro - git does pretty well in automatic merging
+con - it cannot ascertain what you were trying to do so you may have to do manually merging.
