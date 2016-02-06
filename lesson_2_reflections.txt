@@ -3,3 +3,12 @@ You are basically telling git that you plan to eventually track changes to file 
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area is an intermediary between the working directory.  Files you plan to eventually commit are temporarily placed there.  I believe it keeps things cleaner and helps you keep track of what you are planning to eventually commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Perhaps by adding your file to the staging area after the change??
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you need to make like an experimental change. Branches allow you to do so without changing the main (master) branch!
+
+How do the diagrams help you visualize the branch structure?
+Well, trying to keep up with all that information in your head is difficult.  Diagrams make it easier.
