@@ -3,3 +3,8 @@ If you're working on a project that other team members will need access to, you'
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 You may not be ready to pull particular changes down.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+fork - GitHub's way of cloning a repo you may not otherwise have collaborator access to
+clone - copying a repo locally
+branch - 
